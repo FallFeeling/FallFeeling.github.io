@@ -1,0 +1,127 @@
+scheme: Gemini
+darkmode: true
+
+custom_file_path:
+  style: source/_data/styles.styl
+
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+  about: /about/ || fa fa-user
+  sitemap: /sitemap.xml || fa fa-sitemap
+
+menu_settings:
+  icons: true
+  badges: true
+
+sidebar:
+  position: left
+  display: always
+  width_expanded: 320
+  width_dual_column: 260
+
+avatar:
+  url: /images/avatar.svg
+  rounded: true
+  rotated: true
+
+social:
+  GitHub: https://github.com/bilala123 || fab fa-github
+  RSS: /atom.xml || fa fa-rss
+
+social_icons:
+  enable: true
+  icons_only: false
+  transition: true
+
+links_settings:
+  icon: fa fa-link
+  layout: block
+
+links:
+  Hexo: https://hexo.io
+  NexT: https://theme-next.js.org
+  GitHub Pages: https://pages.github.com
+
+toc:
+  enable: true
+  number: true
+  wrap: true
+  expand_all: false
+  max_depth: 4
+
+footer:
+  since: 2026
+  icon:
+    name: fa fa-code
+    animated: true
+    color: "#14b8a6"
+  powered: true
+
+excerpt_description: true
+read_more_btn: true
+
+post_meta:
+  item_text: true
+  created_at: true
+  updated_at:
+    enable: true
+    another_day: true
+  categories: true
+
+codeblock:
+  theme:
+    light: atom-one-light
+    dark: atom-one-dark
+  copy_button:
+    enable: true
+    style: mac
+  fold:
+    enable: false
+  language: true
+
+back2top:
+  enable: true
+  sidebar: true
+  scrollpercent: true
+
+reading_progress:
+  enable: true
+  start_at: left
+  position: top
+  reversed: false
+  color: "#14b8a6"
+  height: 3px
+
+bookmark:
+  enable: true
+  color: "#14b8a6"
+  save: auto
+
+github_banner:
+  enable: true
+  permalink: https://github.com/bilala123
+
+index_with_subtitle: true
+exturl_icon: true
+pjax: true
+mediumzoom: true
+lazyload: true
+
+motion:
+  enable: true
+  async: false
+  duration: 200
+
+pace:
+  enable: true
+  color: teal
+  theme: minimal
+
+local_search:
+  enable: true
+  top_n_per_article: 3
+  unescape: true
+  preload: true

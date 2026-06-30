@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Bilala avatar">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="80" fill="url(#g)"/>
+  <circle cx="160" cy="160" r="106" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.36)" stroke-width="3"/>
+  <path d="M98 194c18 28 42 42 72 42 38 0 68-25 68-60 0-30-21-49-61-58l-18-4c-21-5-31-13-31-25 0-15 14-25 35-25 20 0 37 7 52 22l19-24c-19-19-43-29-71-29-38 0-65 23-65 57 0 29 20 48 59 57l18 4c22 5 32 14 32 27 0 16-15 27-38 27-24 0-43-11-57-32l-24 21z" fill="#fff"/>
+</svg>
