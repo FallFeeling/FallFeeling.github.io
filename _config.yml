@@ -11,13 +11,13 @@ keywords:
   - NexT
   - GitHub Pages
   - Blog
-author: bilala123
+author: FallFeeling
 language: en
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://bilala123.github.io
+url: https://fallfeeling.github.io
 permalink: posts/:year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,7 +106,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/bilala123/bilala123.github.io.git
+  repo: https://github.com/FallFeeling/FallFeeling.github.io.git
   branch: gh-pages
 
 feed:

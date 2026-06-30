@@ -28,7 +28,7 @@ avatar:
   rotated: true
 
 social:
-  GitHub: https://github.com/bilala123 || fab fa-github
+  GitHub: https://github.com/FallFeeling || fab fa-github
   RSS: /atom.xml || fa fa-rss
 
 social_icons:
@@ -102,7 +102,7 @@ bookmark:
 
 github_banner:
   enable: true
-  permalink: https://github.com/bilala123
+  permalink: https://github.com/FallFeeling
 
 index_with_subtitle: true
 exturl_icon: true
